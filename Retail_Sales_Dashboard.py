@@ -595,7 +595,7 @@ plt.grid()
 
 plt.suptitle("Retail Sales Dashboard",fontsize=20,color="royalblue",fontweight="bold")
 plt.tight_layout()
-plt.suptitle("Retai_Sales_Dashboard",fontsize=20,color="royalblue",weight="bold")
+plt.suptitle("Retail_Sales_Dashboard",fontsize=20,color="royalblue",weight="bold")
 plt.tight_layout()
 plt.savefig("Retail_Sales_Dashboard.png",dpi=300)
 plt.show()
